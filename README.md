@@ -23,7 +23,11 @@ dotenv for secure environment variable management
 The project demonstrates how to build a complete LLM-powered agent capable of:
 
 ✔ Reasoning
+
 ✔ Planning
+
 ✔ Using tools (web search)
+
 ✔ Responding intelligently
+
 ✔ Acting as a persona defined by the user (system prompt)
