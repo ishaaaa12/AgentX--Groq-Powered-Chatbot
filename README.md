@@ -1,6 +1,5 @@
 # AgentX--Groq-Powered-Chatbot
 
-🧠 AgentX – Groq Powered Chatbot
 
 A fully free, agentic AI system built using Groq, LangChain Agents, FastAPI, Streamlit, and Tavily Search.
 
